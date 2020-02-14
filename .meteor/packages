@@ -9,23 +9,16 @@ vulcan:i18n-en-us@=1.14.0
 ############ Accounts Packages ############
 
 accounts-password@1.5.1
+vulcan:accounts
 # accounts-twitter
 # accounts-facebook
 
 ############ Your Packages ############
 
-getting-started
+vulcan:admin
 
-# example-simple
-# example-forms
-# example-forum
+vulcan:forms
+vulcan:ui-material
+vulcan:debug
 
-# Note: the following example apps are not currently up to date
-
-# example-movies
-# example-instagram
-# example-customization
-# example-permissions
-# example-membership
-# example-interfaces
-# example-reactions
+music-player
